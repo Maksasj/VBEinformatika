@@ -1,0 +1,10 @@
+sekos pabaiga       2 3 1 2 3 2 2 4 4 1 4 2 2 2 4 3 1 3 4 1 1 3 4 2 2 1 26
+sekos pabaiga       4 4 2 2 1 4 2 3 2 3 4 2 3 4 1 4 1 2 3 4 2 2 3 2 2 1 1 3 2 29
+sekos pabaiga       4 1 1 1 3 1 1 4 3 2 3 3 3 1 2 4 4 3 1 3 2 3 22
+sekos pabaiga       4 4 1 1 1 3 2 1 3 3 1 3 1 2 3 4 4 1 2 2 3 21
+sekos pabaiga       4 2 2 2 3 4 3 1 3 2 4 3 2 4 1 4 1 3 2 1 2 2 2 4 1 2 4 27
+sekos pabaiga       3 3 4 2 4 1 3 2 4 1 2 2 3 2 4 4 1 1 3 1 3 4 22
+sekos pabaiga       4 1 3 4 2 4 3 4 3 1 3 4 1 4 3 2 3 3 4 1 1 1 4 1 1 4 3 2 3 29
+pasiektas tikslas   3 2 3 1 1 4 1 4 3 3 4 2 2 4 1 4 2 3 3 1 3 3 22
+sekos pabaiga       1 2 2 2 4 4 4 2 2 1 2 2 1 1 4 3 1 1 4 4 1 4 1 4 24
+sekos pabaiga       1 2 4 1 4 3 2 2 4 3 1 3 3 2 4 3 4 1 3 4 1 21

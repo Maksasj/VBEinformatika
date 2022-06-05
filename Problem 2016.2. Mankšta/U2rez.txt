@@ -1,0 +1,3 @@
+atsilenkimai         47
+prisitraukimai       26
+atsispaudimai        19

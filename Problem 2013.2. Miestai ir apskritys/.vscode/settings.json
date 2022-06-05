@@ -1,0 +1,7 @@
+{
+      "files.associations": {
+            "map": "cpp",
+            "limits": "cpp",
+            "utility": "cpp"
+      }
+}

@@ -1,0 +1,8 @@
+{
+      "files.associations": {
+            "vector": "cpp",
+            "system_error": "cpp",
+            "xlocale": "cpp",
+            "iosfwd": "cpp"
+      }
+}
