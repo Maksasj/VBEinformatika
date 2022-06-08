@@ -1,0 +1,5 @@
+Katinas Juodas      3 55
+Katinas Baltas      3 58
+Katinas Ratuotas    3 59
+Katinas Gauruotas   4 2
+Katinas Rainas      4 15
