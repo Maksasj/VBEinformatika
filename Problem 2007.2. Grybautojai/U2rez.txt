@@ -1,0 +1,5 @@
+Petras            25   14   13
+Algis              9    6   13
+Jurgis            25   35  271
+Rita              10   69   17
+Jurgis         331
